@@ -15,3 +15,8 @@ If you would like to use Docker as a non-root user, you should now consider addi
 ```
 
 sudo apt-get install git
+
+```
+docker-compose build
+docker-compose up -d
+```
