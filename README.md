@@ -1,5 +1,7 @@
+```
 sudo apt-get update
 sudo apt-get upgrade
+```
 
 Install DOcker on server:
 
